@@ -33,7 +33,7 @@ Introducing the first Cloning Tool That Only Works in South Africa. This Tool Us
 
 ## INSTALLATION [Termux] :
 
-* ` git clone https://github.com/Cold-Breazy/asclone `
+* ` git clone https://github.com/Z3R0SEC/asclone `
 * ` cd asclone `
 * ` python clone.py `
 
